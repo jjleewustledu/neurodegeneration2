@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BrainSpace/.idea/BrainSpace.iml" filepath="$PROJECT_DIR$/../BrainSpace/.idea/BrainSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../brainsmash/.idea/brainsmash.iml" filepath="$PROJECT_DIR$/../brainsmash/.idea/brainsmash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../neurodegeneration/.idea/neurodegeneration.iml" filepath="$PROJECT_DIR$/../neurodegeneration/.idea/neurodegeneration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/neurodegeneration2.iml" filepath="$PROJECT_DIR$/.idea/neurodegeneration2.iml" />
+    </modules>
+  </component>
+</project>
